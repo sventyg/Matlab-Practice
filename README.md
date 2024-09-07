@@ -1,2 +1,2 @@
 # Matlab-Practice
-Basic codes in Matlab
+Matlab practice projects
